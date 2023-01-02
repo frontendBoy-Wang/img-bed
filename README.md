@@ -1,2 +1,3 @@
 # img-bed
-https://frontendboy-wang.github.io/的博客图床
+# https://frontendboy-wang.github.io/
+# frontendBoy-Wang的博客图床
